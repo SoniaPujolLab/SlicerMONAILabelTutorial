@@ -21,10 +21,7 @@ The tutorials demonstrate how to use MONAI Label as an AI-assisted interactive l
 
 ## Author
 
-**Sonia Pujol, PhD**  
-Brigham and Women's Hospital / Harvard Medical School  
-Principal Investigator, 3D Slicer for Latin America (Chan Zuckerberg Initiative EOSS5)  
-GitHub: [SoniaPujolLab](https://github.com/SoniaPujolLab)
+3D Slicer for Latin America (Chan Zuckerberg Initiative EOSS5)  
 
 ## License
 
